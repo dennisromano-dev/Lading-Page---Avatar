@@ -1,7 +1,7 @@
 🚧 Lading Page - Avatar Boot✔️ 🚧
 
 💻 Sobre o projeto
-:shipit: projeto criando uma lading page com HTML, CSS, JAVASCRIPT.
+:shipit: projeto criando uma lading page com HTML, CSS.
 
 💡 Ideia do Projeto
 
